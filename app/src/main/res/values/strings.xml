@@ -1,0 +1,20 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Mi app genial!</string>
+
+    <!-- Opciones del menú -->
+    <string name="menu_home">Inicio</string>
+    <string name="menu_directories">Directorio</string>
+    <string name="menu_notifications">Notificaciones</string>
+
+    <!-- Opciones de configuración -->
+    <string name="option_1">
+        <font color="#000000">inicio</font> <!-- Opción para el inicio -->
+    </string>
+    <string name="option_2">
+        <font color="#000000">directorio</font> <!-- Opción para el directorio -->
+    </string>
+    <string name="option_3">
+        <font color="#000000">notificaciones</font> <!-- Opción para las notificaciones -->
+    </string>
+</resources>
